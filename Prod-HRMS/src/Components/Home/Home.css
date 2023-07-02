@@ -1,0 +1,9 @@
+h1{
+    text-align: end;
+    font-weight: bolder;
+}
+
+.page{
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
